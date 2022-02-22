@@ -1,0 +1,7 @@
+name: ServerCore
+version: '${project.version}'
+main: skh6075.servercore.ServerCore
+api-version: 1.18
+authors: [ skh6075 ]
+description: A plugin to manage the features required by the server
+website: https://github.com/skh6075
